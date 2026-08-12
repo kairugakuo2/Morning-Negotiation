@@ -1,1 +1,5 @@
 morning-negotiation-plan.md
+data/
+.env
+*.db
+corpus/
